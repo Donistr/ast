@@ -2,9 +2,9 @@ package task7_and_8.conflict;
 
 public class ConflictClass {
 
-    private final int value;
+    private final String value;
 
-    public ConflictClass(int value) {
+    public ConflictClass(String value) {
         this.value = value;
     }
 }
